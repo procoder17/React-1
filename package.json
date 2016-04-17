@@ -1,7 +1,19 @@
 {
   "name": "app-100-10-1",
   "version": "0.0.1",
-  "private": true,
+  "author": "procoder17 <procoder17@outlook.com> (http://github.com/procoder17)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/procoder17/react-native-redux-app-100-10-1"
+  },
+  "homepage": "https://github.com/procoder17/react-native-redux-app-100-10-1",
+  "keywords": [
+    "react",
+    "react-native",
+    "redux",
+    "babel"
+  ],
   "scripts": {
     "start": "node node_modules/react-native/local-cli/cli.js start",
     "test": "jest --no-cache"
